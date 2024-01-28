@@ -21,8 +21,8 @@ The **QR code component challenge** is a beginner-level coding challenge offered
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-YheT_VBapo](https://www.frontendmentor.io/solutions/responsive-qr-code-component-YheT_VBapo)
+- Live Site URL: [https://qr-code-component-ruddy-alpha.vercel.app/](https://qr-code-component-ruddy-alpha.vercel.app/)
 
 ## My process
 The way I did to complete this challenge was to first write all the html of the page to focus only on how it would be structured.
