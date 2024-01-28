@@ -55,4 +55,4 @@ Finally, I focused on the styles trying to make them as faithful as possible to 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lucasbsand)
+- Frontend Mentor - [@lucasbsand](https://www.frontendmentor.io/profile/lucasbsand)
